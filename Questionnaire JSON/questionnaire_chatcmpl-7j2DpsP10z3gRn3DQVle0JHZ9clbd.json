@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "question_type": "multiple_choice",
+      "question": "Which of the following do you think is the most significant source of pollution?",
+      "options": [
+        "Industrial emissions",
+        "Vehicle exhaust",
+        "Burning of fossil fuels",
+        "Improper waste disposal",
+        "Deforestation"
+      ]
+    },
+    {
+      "question_type": "likert_scale",
+      "question": "How concerned are you about the impact of pollution on the environment?",
+      "options": [
+        "Not concerned at all",
+        "Slightly concerned",
+        "Moderately concerned",
+        "Very concerned",
+        "Extremely concerned"
+      ]
+    },
+    {
+      "question_type": "checkbox",
+      "question": "Which of the following methods do you think can effectively combat pollution? (Select all that apply)",
+      "options": [
+        "Reducing emissions from factories",
+        "Using public transportation instead of private vehicles",
+        "Implementing stricter environmental regulations",
+        "Promoting renewable energy sources",
+        "Encouraging recycling and waste reduction"
+      ]
+    },
+    {
+      "question_type": "dropdown",
+      "question": "In your opinion, what is the biggest obstacle to combatting pollution?",
+      "options": [
+        "Lack of awareness and education",
+        "Lack of government action",
+        "Individual apathy and indifference",
+        "Technological limitations",
+        "Insufficient funding"
+      ]
+    },
+    {
+      "question_type": "text",
+      "question": "What additional measures do you suggest to combat pollution?"
+    }
+  ]
+}

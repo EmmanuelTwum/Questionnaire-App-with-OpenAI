@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What is your primary reason for fasting?",
+      "options": [
+        "Religious or spiritual purposes",
+        "Health and wellness benefits",
+        "Weight loss",
+        "Cleansing or detoxing the body",
+        "Other"
+      ]
+    },
+    {
+      "question": "How frequently do you fast?",
+      "options": [
+        "Daily",
+        "Intermittently (e.g., 16:8 method)",
+        "Once a week",
+        "Occasionally (few times a month)",
+        "Rarely (few times a year)"
+      ]
+    },
+    {
+      "question": "Which fasting duration do you typically follow?",
+      "options": [
+        "Less than 12 hours",
+        "12-16 hours",
+        "16-20 hours",
+        "20-24 hours",
+        "Extended fasting (24+ hours)"
+      ]
+    },
+    {
+      "question": "What do you expect to achieve through fasting?",
+      "options": [
+        "Increase in self-discipline and willpower",
+        "Improved mental clarity and focus",
+        "Regulation of blood sugar levels",
+        "Reduced inflammation in the body",
+        "Other"
+      ]
+    },
+    {
+      "question": "Have you experienced any challenges or difficulties while fasting? (select all that apply)",
+      "options": [
+        "Hunger pangs",
+        "Lack of energy or fatigue",
+        "Difficulty concentrating",
+        "Mood swings or irritability",
+        "None"
+      ]
+    }
+  ]
+}
